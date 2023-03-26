@@ -1,2 +1,3 @@
 # mygit_test
-git test repository
+git test repository 
+- 1st modification 
